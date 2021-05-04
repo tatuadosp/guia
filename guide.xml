@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Example">
+    <display-name lang="en">Example</display-name>
+    <url>http://www.dummy</url>
+  </channel>
+  <channel id="AMC FHD²">
+    <display-name lang="pt">AMC FHD²</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="AMC HD²">
+    <display-name lang="pt">AMC HD²</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="AMC SD">
+    <display-name lang="pt">AMC SD²</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="GLOBO SP FHD²">
+    <display-name lang="pt">GLOBO SP FHD²</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="GLOBO SP FHD¹">
+    <display-name lang="pt">GLOBO SP FHD¹</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="GLOBO SP FHD¹ H265">
+    <display-name lang="pt">GLOBO SP FHD¹ H265</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="GLOBO SP HD²">
+    <display-name lang="pt">GLOBO SP HD²</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="GLOBO SP HD¹">
+    <display-name lang="pt">GLOBO SP HD¹</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="GLOBO SP HD¹ DUAL">
+    <display-name lang="pt">GLOBO SP HD¹ DUAL</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="GLOBO SP SD*">
+    <display-name lang="pt">GLOBO SP SD*</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="GLOBO SP SD²">
+    <display-name lang="pt">GLOBO SP SD²</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="GLOBO SP SD¹">
+    <display-name lang="pt">GLOBO SP SD¹</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <programme start="20210504000000 +0100" stop="20210504235900 +0100" channel="Example">
+    <title lang="en">dummy program - Full Day Show</title>
+    <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber.(n)</desc>
+  </programme>
+  <programme start="20210505000000 +0100" stop="20210505235900 +0100" channel="Example">
+    <title lang="en">dummy program - Full Day Show</title>
+    <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber.(n)</desc>
+  </programme>
+  <programme start="20210506000000 +0100" stop="20210506235900 +0100" channel="Example">
+    <title lang="en">dummy program - Full Day Show</title>
+    <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber.(n)</desc>
+  </programme>
+  <programme start="20210507000000 +0100" stop="20210507235900 +0100" channel="Example">
+    <title lang="en">dummy program - Full Day Show</title>
+    <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber.(n)</desc>
+  </programme>
+  <programme start="20210508000000 +0100" stop="20210508235900 +0100" channel="Example">
+    <title lang="en">dummy program - Full Day Show</title>
+    <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber.(n)</desc>
+  </programme>
+  <programme start="20210509000000 +0100" stop="20210509235900 +0100" channel="Example">
+    <title lang="en">dummy program - Full Day Show</title>
+    <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber.(n)</desc>
+  </programme>
+  <programme start="20210510000000 +0100" stop="20210510235900 +0100" channel="Example">
+    <title lang="en">dummy program - Full Day Show</title>
+    <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber.(n)</desc>
+  </programme>
+</tv>
